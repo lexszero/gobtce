@@ -9,7 +9,7 @@
 // TODO:
 // - moar methods
 // - interacting with PairTicker{,s} via chans
-package btce
+package gobtce
 
 import (
 	"errors"

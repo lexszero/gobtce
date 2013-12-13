@@ -1,4 +1,4 @@
-package btce
+package gobtce
 
 import (
 	"testing"
