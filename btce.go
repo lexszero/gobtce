@@ -1,3 +1,14 @@
+// Some stupid bindings for btc-e.com API
+//
+// Supported methods:
+// - ticker
+// ... to be continued. probably.
+//
+// See test for usage examples
+//
+// TODO:
+// - moar methods
+// - interacting with PairTicker{,s} via chans
 package btce
 
 import (
